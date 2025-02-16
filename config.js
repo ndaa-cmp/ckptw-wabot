@@ -10,11 +10,11 @@ const {
 global.config = {
     // Informasi bot dasar
     bot: {
-        name: "CKPTW", // Nama bot
+        name: "LenzyID", // Nama bot
         prefix: /^[°•π÷×¶∆£¢€¥®™+✓_=|/~!?@#%^&.©^]/i, // Karakter awalan perintah yang diizinkan
         phoneNumber: "", // Nomor telepon bot (opsional jika menggunakan QR code)
         thumbnail: "https://itsreimau.is-a.dev/umbrx/dist/img/thumbnail/umbrx.jpg", // Gambar thumbnail bot
-        website: "https://chat.whatsapp.com/FxEYZl2UyzAEI2yhaH34Ye", // Website untuk WhatsApp bot
+        website: "ndaa-dv.web.id", // Website untuk WhatsApp bot
         groupJid: "", // JID untuk group bot (opsional jika tidak menggunakan requireBotGroupMembership)
 
         // Konfigurasi autentikasi sesi bot
@@ -73,9 +73,9 @@ global.config = {
 
     // Informasi owner bot
     owner: {
-        name: "", // Nama owner bot
-        organization: "", // Nama organisasi owner bot
-        id: "", // Nomor telepon owner bot
+        name: "Ndaa", // Nama owner bot
+        organization: "LenzyORG", // Nama organisasi owner bot
+        id: "6285640575421", // Nomor telepon owner bot
         co: [""] // Nomor co-owner bot
     },
 
@@ -88,7 +88,7 @@ global.config = {
     // Stiker bot
     sticker: {
         packname: "", // Nama paket stiker
-        author: "github.com/itsreimau/ckptw-wabot" // Pembuat stiker
+        author: "" // Pembuat stiker
     },
 
     // Sistem bot
